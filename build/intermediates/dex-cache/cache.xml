@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fd13fb3bbbba6127cf92a155160607a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/119acbff95854d11215517a239a8b9e3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/119acbff95854d11215517a239a8b9e3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fd13fb3bbbba6127cf92a155160607a3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/7b5395025aaa17194c71874a74e00c3e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/7b5395025aaa17194c71874a74e00c3e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/9c31916208819629a6c0d85907c3378f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1ab84aba58b7f5fd428cfdae0d22b000/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1ab84aba58b7f5fd428cfdae0d22b000/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/9c31916208819629a6c0d85907c3378f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/16b8496c359d883c0b2746bdb5bc3a9c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/16b8496c359d883c0b2746bdb5bc3a9c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/1012494d9040cd071566a0b88eb77465/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/1012494d9040cd071566a0b88eb77465/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/3982cabb1a2d2a68e91032830f61042d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/3982cabb1a2d2a68e91032830f61042d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/b6873806be320acea960f4d6e6010ce5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/b6873806be320acea960f4d6e6010ce5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/f76239511c10f9ef2ec13a04f239032d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/f76239511c10f9ef2ec13a04f239032d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/60f4165ff69d19036423dbbc74ef8139/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/60f4165ff69d19036423dbbc74ef8139/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/8147641694000766125f26169ead9205/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/8147641694000766125f26169ead9205/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/geofire-android-2.3.0.aar/b3725305c6720f759f43f70c608f09ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26012d81ea44b7990e98831f9fbca1cb3434c1d7">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/2a4fb09baa6a5b8b48a3eb9837ce65b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/2a4fb09baa6a5b8b48a3eb9837ce65b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/55409a43efc384bf408289d330ad991a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/55409a43efc384bf408289d330ad991a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/74a98c274c71d9dbd6c6d2a2809f76fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50d4edc501bdc2a6fcd6e3467bfbdb8b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/2837c37a27039cf0fa3074f6e8d18c1e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/2837c37a27039cf0fa3074f6e8d18c1e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50d4edc501bdc2a6fcd6e3467bfbdb8b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/74a98c274c71d9dbd6c6d2a2809f76fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c95af4f1d088d8d5b6353c7a8aa54ab7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/ac9d6250c3e7f9e1be18cb458d6d0bd1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/ac9d6250c3e7f9e1be18cb458d6d0bd1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/cb8451c3778cdc188967563b280e4315/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/cb8451c3778cdc188967563b280e4315/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5df2919db2ece9eb19bec5b3986875f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-common/2.3.0/28e9977445eed3f302fbd656495897c0b0dbab22/geofire-common-2.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28e9977445eed3f302fbd656495897c0b0dbab22">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5df2919db2ece9eb19bec5b3986875f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/e9c4023cb9f15728c4916c690dc1a899/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/e9c4023cb9f15728c4916c690dc1a899/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/e36e5549fb40428e5e6451670abe644c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/e36e5549fb40428e5e6451670abe644c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/euricopinto/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c95af4f1d088d8d5b6353c7a8aa54ab7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/euricopinto/Desktop/Ex_Files_GoogleFirebase_Android/Exercise Files/Start/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Partimer</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="status">(status)</string>
+    <string name="sale_on_now">Sale on Now!</string>
+    <string name="sign_up_log_in">Sign Up / Log In</string>
+    <string name="title_activity_employee_map">Map</string>
+</resources>

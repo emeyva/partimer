@@ -1,0 +1,40 @@
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmployeeMapActivity" >
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.emeyva.firebasefirstlook.EmployeeMapActivity" />
+
+    <EditText
+        android:id="@+id/searchView"
+        android:layout_width="250dp"
+        android:layout_height="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="17dp"
+        android:layout_toStartOf="@+id/user_account_map"
+        android:background="@android:color/white"
+        android:hint="Search Jobs"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="19dp"
+        android:background="@drawable/round_button"
+        android:src="@drawable/ic_account_map"
+        android:text=""
+        android:id="@+id/user_account_map" />
+
+
+</RelativeLayout>
